@@ -33,8 +33,8 @@
     },
     {
       "Username": "certus_one",
-      "PubKey": "",
-      "DkgPubKey": ""
+      "PubKey": "/QInqEyNBq0JZJuEQf1ZKLgQtTZJSdWJHr3KV5YAc0A=",
+      "DkgPubKey": "hMReFctylqh3b8msOG2NlzybFCAY1f1/iGtv+vbAS+Su24xkLEs0ZFyLCT2hRPUc"
     },
     {
       "Username": "banteg",
@@ -48,8 +48,8 @@
     },
     {
       "Username": "rune",
-      "PubKey": "v94jhyVQRRRaLiH4uxUljEeAC0uRzQERzCOsbU8lvYk=",
-      "DkgPubKey": "rOV3icrppZ5s/TpXkoPS8su6XerZHOHf7fG5reCYNIQKgCRPxoJFoHb1nnJwyYdP"
+      "PubKey": "",
+      "DkgPubKey": ""
     },
     {
       "Username": "michwill",
